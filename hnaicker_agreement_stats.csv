@@ -1,0 +1,6 @@
+Field	PercentAgree_Pre	PercentAgree_Post	CohenKappa_Pre	CohenKappa_Post	NumDisagreements	NumResolved	MeanResolutionTime_min	Notes
+HasRecovered	100	100	1	1	0	0	4.8	
+WhyRecovered	100	100	N/A	N/A	0	0	3.6	
+ActivityPattern	50	100	0.153	1	0	5	3.4	
+Currentstatus	70	100	0.4	1	0	3	2.5	
+RecentThemes	80	100	0.778	1	0	2	N/A	
